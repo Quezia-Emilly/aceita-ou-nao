@@ -1,6 +1,7 @@
-h2 {
-    font-size: 100px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 30px;
+    }
 }
 
 #conteiner {
