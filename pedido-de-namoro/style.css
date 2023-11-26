@@ -2,6 +2,11 @@
     h2 {
         font-size: 30px;
     }
+
+    .botao {
+        font-size: 18px;
+        padding: 12px;
+    }
 }
 
 #conteiner {
